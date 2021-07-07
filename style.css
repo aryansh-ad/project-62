@@ -1,0 +1,19 @@
+#grid{
+    height: 250px;
+    width: 250px;
+}
+.line{
+    font-size: 40px;
+}
+#slide{
+    height: 500px;
+    width: 500px;
+    
+}
+.grid{
+    text-align: center;
+    
+}
+.slides{
+    text-align: center;
+}
